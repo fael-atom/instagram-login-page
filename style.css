@@ -15,7 +15,6 @@ body {
     padding: 0;
     display: flex;
     justify-content: center;
-
 }
 
 .instagram-wrapper {
@@ -24,14 +23,13 @@ body {
     justify-content: start;
     width: 60%;
     height: 100%;
-
 }
 
 .instagram-phone {
-    display: flex;
+    display:flex;
     align-items: center;
     justify-content: center;
-    width: 50%;
+    width: 45%; /* Valor para centralizar tudo */   
 }
 
 .instagram-phone img {
@@ -54,13 +52,13 @@ body {
     flex-direction: column;
     background-color: white;
     width: 100%;
-    padding: 1.3rem;
+    padding: 1.3rem 0;
     border: 1px solid lightgray;
-
 }
 
 .group:nth-child(1) {
     min-height: 19rem;
+    margin: 15px; /* Valor adotado para separação */
 }
 
 .instagram-logo {
@@ -72,6 +70,7 @@ body {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
+    overflow: hidden;
 }
 
 .profile-photo img {
