@@ -4,12 +4,12 @@ Neste repositório você encontra o código completo para criar um clone da pág
 
 
 
-Acesse a página do projeto [aqui.](insta-login-page@github.io)
+Acesse a página do projeto [https://fael-atom.github.io/instagram-login-page/](https://fael-atom.github.io/instagram-login-page/)
 
 
 
 <div  style="text-align:center;">
-<img src="\images\login-page-example.png" style="zoom:50%;" />
+<img src=".\images\login-page-example" style="zoom:50%;" />
 <br>
 <small>Imagem da tela de login do Instagram produzida.</small>
 </div>
